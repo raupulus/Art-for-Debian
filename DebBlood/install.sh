@@ -8,6 +8,8 @@
 # ###       www.fryntiz.es        ### #
 #######################################
 
+# Este script instala el tema DebBlood en el sistema
+
 ############################
 ##   Constantes Colores   ##
 ############################
