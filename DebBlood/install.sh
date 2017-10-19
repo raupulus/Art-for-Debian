@@ -8,6 +8,8 @@
 # ###       www.fryntiz.es        ### #
 #######################################
 
+# Este script instala el tema DebBlood en el sistema
+
 ############################
 ##   Constantes Colores   ##
 ############################
@@ -23,3 +25,9 @@ verde="\033[1;32m"
 #############################
 ##   Variables Generales   ##
 #############################
+
+# Instalar Temas
+cp -R ./usr/share/desktop-base/debblood /usr/share/desktop-base/debblood
+
+# Instalar Plymouth
+cp -R ./usr/share/plymouth/themes/debblood /usr/share/plymouth/themes/debblood
