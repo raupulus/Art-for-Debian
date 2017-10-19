@@ -29,3 +29,5 @@ verde="\033[1;32m"
 # Instalar Temas
 cp -R ./usr/share/desktop-base/debblood /usr/share/desktop-base/
 
+# Instalar Plymouth
+cp -R ./usr/share/plymouth/themes/debblood /usr/share/plymouth/themes/
