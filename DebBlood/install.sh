@@ -25,3 +25,7 @@ verde="\033[1;32m"
 #############################
 ##   Variables Generales   ##
 #############################
+
+# Instalar Temas
+cp -R ./usr/share/desktop-base/debblood /usr/share/desktop-base/
+
