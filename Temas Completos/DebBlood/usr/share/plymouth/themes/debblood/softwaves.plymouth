@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Tema creado por Raúl Caro Pastorino
+Description=Tema basado en el original para Debian 9 con un toque más colorido
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/debblood
+ScriptFile=/usr/share/plymouth/themes/debblood/softwaves.script
